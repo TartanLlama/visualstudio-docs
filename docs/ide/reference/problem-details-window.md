@@ -1,4 +1,4 @@
-![image](https://github.com/TartanLlama/visualstudio-docs/assets/1856614/2212a97d-7bb8-4905-a342-eab79eef6f86)---
+---
 title: Problem Details Window
 description: Learn about the Problem Details window and how to use it to navigate structured diagnostics.
 ms.date: 10/24/2023
